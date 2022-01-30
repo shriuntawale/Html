@@ -1,0 +1,24 @@
+Commands on gitbash:
+
+ls
+pwd
+cd 
+git init --by this .git folder gets created.
+git remote add origin <gitlink>
+git remote -v
+git add .  -->to add all files
+git add <filename>
+git commit -m "First commit"
+git push origin master
+git help
+git status
+
+----------------------------------------------------
+git pull=git fetch + git merge
+git pull is used to fetch and merge changes from the remote
+repository to the local repository.
+
+mkdir dirname
+git init
+git pull <gitlink>
+git status
